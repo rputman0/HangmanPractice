@@ -1,25 +1,35 @@
 from random import randint
 import linecache
 
+def createDashes(string):
+    dashes = ""
+    for i in range(len(string)):
+        if(string[i] == " "):
+            dashes += " "
+        else:
+            dashes += "-"
+
+    return dashes
+
+def getWord():
+    fileName = ("movies.txt")
+    movieNumber = randint(0,403)
+    word = linecache.getline(fileName,movieNumber)
+    word = word.rstrip('\n')
+
+    return word
+
 def main():
     print("HANGMAN - Guess the movie title in FIVE tries")
 
-    #read from text file to get random title
-    fileName = ("movies.txt")
-    word = linecache.getline(fileName, randint(0,400)).rstrip('\n')
-
+    #read from text file to get random movie title
+    word = getWord()
+    
     #abstract the word to the player
-    dashes = ""
-    for i in range(len(word)):
-        if(word[i] == " "):
-         dashes += " "
-        else:
-         dashes += "-"
-
+    dashes = createDashes(word)
     print(dashes)
 
-    #python strings are immutable
-    #use list() to change strings in place
+    #python strings are immutable, use list() to change strings in place
     guess = list(dashes)
 
     count = 0
