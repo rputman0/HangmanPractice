@@ -6,8 +6,7 @@ def main():
 
     #read from text file to get random title
     fileName = ("movies.txt")
-    word = linecache.getline(fileName, randint(0,400))
-    #print(word)
+    word = linecache.getline(fileName, randint(0,400)).rstrip('\n')
 
     #abstract the word to the player
     dashes = ""
