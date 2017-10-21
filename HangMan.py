@@ -45,7 +45,6 @@ def main():
     
     word = getWord()
     dashes = convertToDashes(word)
-    print(word)
     print(dashes)
     
     #python strings are immutable, use list() to change strings in place
