@@ -1,0 +1,403 @@
+alien
+chinatown
+enter the dragon
+jurassic park
+indiana jones
+lawrence of arabia
+metropolis
+raging bull
+pan's labyrinth
+pinocchio
+snow white and the seven dwarfs
+spirited away
+taxi driver
+the good, the bad, and the ugly
+the lord of the rings
+the legend of the drunken master
+the shining
+tokyo story
+wizard of oz
+8 1/2
+all about eve
+cinema paridiso
+network
+sunset boulevard
+500 days of summer
+an affair to be remembered
+annie hall
+breakfast at tiffany's
+carol
+city lights
+jerry maguire
+lost in translation
+midnight in paris
+pretty woman
+sleepless in seattle
+sense and sensibility
+the artist
+the notebook
+the graduate
+the sweet life (la dolce vita)
+wuthering heights
+a christmas story
+airplane!
+anchorman the legend of ron burgundy
+blazing saddles
+clueless
+fargo
+ferris bueller's day off
+ghostbusters
+history of the world, part 1
+hot fuzz
+in bruges
+kung fu hustle
+legally blonde
+life of brian
+mean girls
+national lampoon's animal house
+shanghai noon
+shaolin soccer
+some like it hot
+the big lebowski
+the blues brothers
+the hangover
+the producers
+this is spinal tap
+12 years a slave
+a beautiful mind
+a streetcar name desire
+apollo 13
+american beauty
+boogie nights
+double indemnity
+fight club
+forest gump
+good will hunting
+hugo
+inside llewyn davis
+magnolia
+million dollar baby
+on the waterfront
+one flew over the cuckoo's nest
+requiem for a dream
+the french connection
+the grapes of wrath
+the king's speech
+the social network
+the wrestler
+the manchurin candidate
+to kill a mockingbird
+witness for the prosecution
+dial m for murder
+laura
+mullohand drive
+north by northwest
+notorious
+rear window
+shadow of a doubt
+the maltese falcon
+the third man
+three colors: red
+babe
+easy rider
+hotel rwanda
+into the wild
+jason and the argonauts
+slumdog millionare
+swiss family robinson
+the revenant
+the african queen
+the jungle book
+the treasure of the sierre madre
+the seventh seal
+the wages of fear
+there will be blood
+cast away
+life of pi
+the abyss
+the curse of the black pearl
+army in the shadows
+casino
+dirty harry
+dog day afternoon
+goodfellas
+l.a. confidential
+leon
+mean streets
+once upon a time in america director's cut
+rififi
+scarface
+the samurai
+white heat
+zodiac
+die hard
+escape from new york
+first blood
+ghost protocol
+james bond
+kill bill
+lethal weapon
+men in black
+robocop
+rocky
+rogue one
+speed
+the bourne ultimatum
+the fugitive
+the hunger games
+the karate kid
+the road warrior
+carrie
+come and see
+drag me to hell
+halloween
+inside
+rosemary's baby
+sinister
+suspiria
+the descent
+the exorcist
+the house of the devil
+the innocents
+the ring
+the texas chain saw massacre
+trick r' treat
+don't breathe
+the conjuring
+a hard day's night
+amadeus
+chicago
+hello, dolly!
+mary poppins
+sweeney todd
+the rocky horror picture show
+the sound of music
+west side story
+willy wonka & the choclate factory
+apocalypse now
+barry lyndon
+das boot
+flags of our fathers
+letters from iwo jima
+paths of glory
+patton
+platoon
+sergeant york
+saving private ryan
+the bridge on the river kwai
+the deer hunter
+the great escape
+the pianist
+the thin red line
+avatar
+conan the barbarian
+dragonslayer
+fantastic beasts and where to find them
+groundhog day
+it's a wonderful life
+labyrinth
+pleasantville
+stardust
+the dark crystal
+the hobbit
+the lion, the witch, and the wardrobe
+the neverending story
+tommorrowland
+a clockwork orange
+arrival
+back to the future
+children of men
+close encounters of the third kind
+dark city director's cut
+dawn of the planet of the apes
+district 9
+e.t. the extraterrestrial
+edge of tomorrow
+eternal sunshine of the spotless mind
+ex machina
+forbidden planet
+gattaca
+gravity
+her
+inception
+invasion of the body snatchers
+moon
+minority report
+solaris
+star trek
+the day the earth stood still
+the martian
+the truman show
+the wrath of khan
+total recall
+tokyo godfathers
+waltz with bashir
+triplets of belleville
+kung fu panda
+the incredibles
+akira
+animal farm
+coraline
+ernest & celestine
+fantasia
+finding nemo
+grave of the fireflies
+how to train your dragon
+inside out
+lilo & stitch
+my neighbor totoro
+millenium actress
+monsters inc
+nausicaa of the valley of the wind
+patema inverted
+rango
+redline
+sword of the stranger
+the iron giant
+the land before time
+the last unicorn
+the lego movie
+the little mermaid
+the little prince
+the secret of nimh
+the secret of kells
+the thief and the cobbler the recobbled cut
+tekkonkinkreet
+watership down
+wolf children
+zootopia
+antman
+captain america
+dredd
+dick tracy
+gods and monsters
+guardians of the galaxy
+iron man
+logan
+sin city
+snowpiercer
+superman
+the avengers
+v for vendetta
+watchmen ultimate cut
+wonder woman
+x2
+12 angry men
+2001: a space odyssey
+blade runner final cut
+bonnie and clyde
+brazil director's cut
+citizen kane
+city of god
+casablanca
+dr. strangelove
+evil dead 2
+galaxy quest
+ghost in the shell
+godzilla
+gone with the wind
+harry potter
+house of flying daggers
+ip man
+it happened one night
+jaws
+john wick
+king kong
+la la land
+lincoln
+monty python and the holy grail
+no country for old men
+oldboy
+rashomon
+risky business
+roman holiday
+seven samurai
+schindler's list
+shakespeare in love
+spiderman 2
+star wars
+stand by me
+singing in the rain
+titanic
+terminator 2: judgement day
+toy story
+the best years of our lives
+the dark knight
+the godfather
+the matrix
+the killer
+the thing
+the lion king
+the princess bride
+the searchers
+the shawshank redemption
+the silence of the lambs
+to live
+vertigo
+yellow submarine
+your name
+bodygaurd
+the muppet movie
+the nightmare before christmas
+the prince of egypt
+frozen
+aladdin
+an american tail
+bambi
+beauty and the beast
+the little mermaid
+lady and the tramp
+mulan
+princess mononoke
+snoopy, come home
+the brave little toaster
+shaun of the dead
+black swan
+psycho
+repulsion
+the sixth sense
+argo
+se7en
+the girl with the dragon tattoo
+stagecoach
+rio bravo
+the wild bunch
+the mariachi
+once upon a time in the west
+the man who shot liberty valence
+butch cassidy and the sundance kid
+red river
+high noon
+unforgiven
+the mummy
+the blob
+cloverfield
+evil dead 2
+predator
+the fly
+[rec]
+it follows
+bride of frankenstein
+let the right one in
+zombieland
+the host
+colossal
+cat people
+crouching tiger, hidden dragon
+fearless
+fist of fury
+fist of legend
+five deadly venoms
+harakiri
+hard boiled
+hero
+heroes of the east
+kill zone s.p.l.
+kung fu killer
+magnificent butcher
+ong bak: the thai warrior
+police story
+ran
+raise the red lantern
+the 36th chamber of shaolin
+tai chi master
